@@ -67,12 +67,16 @@ input::before {
 }
 
 form button {
-  padding: 5px 10px;
-  color: darkslategrey;
+  padding: 10px 15px;
+  margin: 0px 5px;
+  background-color: #f4f4f4;
+  border: 1px rgba(0,0,0,0) solid;
+  border-radius: 4px;
 }
 
 form button:hover {
   color: black;
+  border-color: #c6c6c6;
 }
 
 nav {
